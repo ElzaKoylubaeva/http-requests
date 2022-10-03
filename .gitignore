@@ -1,0 +1,9 @@
+*.iml
+out/
+target/
+.idea
+
+# Project custom files
+*.txt
+*.json
+*.csv
